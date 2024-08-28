@@ -1,5 +1,7 @@
 The Baanking App is in the Master branch.
-Requirements
+
+Requirements:
+
             When you start the application, give a welcome to Bank screen
             1. Customer
             2. Admin
